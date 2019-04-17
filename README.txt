@@ -1,0 +1,1 @@
+This programs lets user to enter a given word in english and gives the definition of the word by getting the result from a json data source.
